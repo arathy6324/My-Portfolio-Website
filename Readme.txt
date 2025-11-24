@@ -29,13 +29,4 @@ Core Technologies:
 |-- README.txt      (This file)
 
 -----------------------------------------------------------
-3. TEMPLATE CREDIT
------------------------------------------------------------
-This project is based on the iPortfolio template.
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
------------------------------------------------------------
 Customized By: Arathy Shiju
